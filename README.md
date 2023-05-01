@@ -1,3 +1,3 @@
 # All my music related notes
 
-- [Plugins]()
+- [Plugins](https://github.com/WillKidd/Musx/blob/main/Plugins.md)
